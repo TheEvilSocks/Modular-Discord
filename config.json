@@ -1,0 +1,17 @@
+{
+  "credentials":{
+    "useCredentials": true,
+    "email": "user@example.com",
+    "password": "password"
+  },
+
+
+  "dir":{
+    "moduleDir": "./modules/",
+    "libDir": "./lib/"
+  },
+
+  "logger":{
+    "24hourFormat": true
+  }
+}
